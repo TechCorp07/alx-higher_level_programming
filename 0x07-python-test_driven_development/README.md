@@ -46,4 +46,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Cort Robinson** - [cort-robinson](https://github.com/cort-robinson)
+* **Einstein Makuyana**
