@@ -6,6 +6,6 @@ WHERE g.title NOT IN (
         FROM tv_genres AS g
             JOIN tv_show_genres AS sg ON g.id = sg.genre_id
             JOIN tv_shows AS s ON sg.show_id = s.id
-        WHERE s.title = "Dexter"
+        WHERE s.name = "Comedy"
     )
 ORDER BY g.title;
